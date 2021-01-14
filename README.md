@@ -1,10 +1,12 @@
 # Minimal Zoom backgrounds
 
-Here are some Zoom backgrounds that look solid black when you are looking at the camera, but show some text when you are away:
+Here are some Zoom backgrounds that look solid black when you are looking at the camera, but show some text when you are away.
 
-![brb](brb.png)
-![afk](afk.png)
-![now-you-dont](now-you-dont.png)
-![404](404.png)
-![pets-you-know](pets-you-know.png)
-![kids-you-know](kids-you-know.png)
+<img src="brb.png" alt="brb.png" width="600">
+<img src="afk.png" alt="afk.png" width="600">
+<img src="now-you-dont.png" alt="now-you-dont.png" width="600">
+<img src="404.png" alt="404.png" width="600">
+<img src="pets-you-know.png" alt="pets-you-know.png" width="600">
+<img src="kids-you-know.png" alt="kids-you-know.png" width="600">
+
+[Download ZIP](https://github.com/dar5hak/minimal-zoom-backgrounds/archive/main.zip)
