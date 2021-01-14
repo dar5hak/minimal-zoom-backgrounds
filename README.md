@@ -1,4 +1,4 @@
-# minimal-zoom-backgrounds
+# Minimal Zoom backgrounds
 
 Here are some Zoom backgrounds that look solid black when you are looking at the camera, but show some text when you are away:
 
