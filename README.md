@@ -2,6 +2,8 @@
 
 Here are some Zoom backgrounds that look solid black when you are looking at the camera, but show some text when you are away.
 
+Note: If you have the _Mirror my video_ option on, they’ll look inverted to you but okay to others.
+
 <img src="brb.png" alt="brb.png" width="480">
 <img src="afk.png" alt="afk.png" width="480">
 <img src="now-you-dont.png" alt="now-you-dont.png" width="480">
