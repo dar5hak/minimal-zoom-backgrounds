@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="now-you-dont.svg"
+   inkscape:export-filename="/Users/darshakparikh/Projects/minimal-zoom-backgrounds/now-you-dont.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <rect
+       x="364.06667"
+       y="190.72281"
+       width="341.34035"
+       height="166.21404"
+       id="rect1476" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59375"
+     inkscape:cx="960"
+     inkscape:cy="540"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="923"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:31.75px;line-height:1;font-family:Poppins;-inkscape-font-specification:Poppins;text-align:start;text-anchor:start;fill:#3689e6;fill-opacity:1;stroke-width:0.264583"
+       x="212.94824"
+       y="118.13659"
+       id="text835"><tspan
+         sodipodi:role="line"
+         x="212.94824"
+         y="118.13659"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.75px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:start;text-anchor:start;fill:#de3e80;fill-opacity:1;stroke-width:0.264583"
+         id="tspan1482">now</tspan><tspan
+         sodipodi:role="line"
+         x="212.94824"
+         y="151.48898"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.75px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:start;text-anchor:start;fill:#de3e80;fill-opacity:1;stroke-width:0.264583"
+         id="tspan4960">you</tspan><tspan
+         sodipodi:role="line"
+         x="212.94824"
+         y="184.8414"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.75px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:start;text-anchor:start;fill:#de3e80;fill-opacity:1;stroke-width:0.264583"
+         id="tspan4962">don’t</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1474"
+       style="line-height:1.25;font-family:Poppins;font-size:10.58333333000000032px;-inkscape-font-specification:Poppins;white-space:pre;shape-inside:url(#rect1476);" />
+  </g>
+</svg>
